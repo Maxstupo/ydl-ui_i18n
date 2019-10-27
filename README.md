@@ -1,7 +1,11 @@
 ## YDL-UI i18n
 This repository contains [YDL-UI's](https://github.com/Maxstupo/ydl-ui) locale files.
-
 Check out YDL-UI here: [https://github.com/Maxstupo/ydl-ui](https://github.com/Maxstupo/ydl-ui)
+<br>
+The next release of YDL-UI will support multiple languages, the current user-interface language can be changed in `Settings > General`.
+
+### Note
+Due to the way YDL-UI was created, controls in the user-interface don't automatically resize based on the text length, resulting in the possibility of controls hiding the text of other controls.
 
 ## Loading
 YDL-UI will search for locale files within a directory called `locales` located in the same folder as the `ydl-ui.json` config file. Any file with the filename pattern `*.<language_code>.json` will be loaded from this directory. <br><br>The language code can be neutral (e.g. `en` or `zh`), specific (e.g. `en-us` or `zh-Hans`), or generic text. 
