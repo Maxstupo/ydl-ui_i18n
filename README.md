@@ -11,7 +11,7 @@ YDL-UI will search for locale files within a directory called `locales` located 
 The language selection dropdown (in the `Settings` window) will display the language/country for each locale file. Generic text or codes unrecognized by your system will be displayed as plain text in the dropdown.
 
 ## Format
-Locale files use a JSON key-value format, each key represents a specific user-interface component. YDL-UI will use a default English translation for any entries that are not specified in the locale file. Certain entries support the use of templates, these are words wrapped in braces and will be replaced before being displayed.<br><br>
+Locale files use a JSON key-value format, each key represents a specific user-interface component. YDL-UI will use a default English translation for any entries that are not specified in the locale file.<br><br>Certain entries support the use of templates, these are words wrapped in braces and will be replaced before being displayed.<br><br>
 `"preset_dialog.edit": "Edit Download Preset - {PresetName}"`<br>
 The template `{PresetName}` will be replaced with the name of the preset before being displayed in the user-interface.<br><br>
 Refer to the [default locale file](https://github.com/Maxstupo/ydl-ui_i18n/blob/master/locales/en/default.en.json) for available templates.<br>
