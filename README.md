@@ -1,7 +1,7 @@
 ## YDL-UI i18n
 This repository contains [YDL-UI's](https://github.com/Maxstupo/ydl-ui) locale files.
 <br><br>
-The next release of YDL-UI will support multiple languages, the current user-interface language can be changed in `Settings > General`.
+YDL-UI supports multiple languages, the current user-interface language can be changed in `Settings > General`.
 
 ### Note
 Due to the way YDL-UI was created, controls in the user-interface don't automatically resize based on the text length, resulting in the possibility of controls hiding the text of other controls.
