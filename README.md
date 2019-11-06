@@ -3,7 +3,7 @@ This repository contains [YDL-UI's](https://github.com/Maxstupo/ydl-ui) locale f
 <br><br>
 YDL-UI supports multiple languages, the current user-interface language can be changed in `Settings > General`.
 
-# Translating / Contributing
+## Translating / Contributing
 Wanting to contribute by translating YDL-UI to your language, or fix a typo?
 <br><br>
 Fork this repository, apply your changes (in a sub-folder, view the **Format** section for more information), then create a pull request or send me the file.
