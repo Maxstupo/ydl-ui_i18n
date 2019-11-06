@@ -1,2 +1,5 @@
-## YDL-UI - English (en)
+English (en)
+
+Contributors: Maxstupo
+
 This is the default locale file for YDL-UI.
