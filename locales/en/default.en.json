@@ -157,6 +157,8 @@
   "download_list.size": "Size",
   "download_list.progress": "Progress",
   "download_list.eta": "ETA",
+  "download_list.download_directory": "Download Directory",
+  "download_list.title": "Title",
   "download_list.context_menu.view_log": "View Log",
   "download_list.context_menu.stop": "Stop",
   "download_list.context_menu.start": "Start",
