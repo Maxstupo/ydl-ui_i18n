@@ -123,7 +123,7 @@
   "menustrip.download.select": "Select",
   "menustrip.download.import": "Import",
   "menustrip.download.export": "Export",
-  "menustrip.download.add": "Add Url...",
+  "menustrip.download.add": "Add URL...",
   "menustrip.download": "&Download",
   "keyword_dialog.note": "Some keywords are not guaranteed to be present since they depend on the metadata obtained by a particular extractor. Such keywords will be replaced with \"NA\".",
   "keyword_dialog.keywords.value": "Value",
