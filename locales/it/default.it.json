@@ -156,6 +156,8 @@
   "download_list.speed": "Velocità",
   "download_list.size": "Dimensione",
   "download_list.progress": "Progresso",
+  "download_list.download_directory": "Cartella download",
+  "download_list.title": "Titolo",
   "download_list.eta": "Tempo stimato",
   "download_list.context_menu.view_log": "Visualizza registro",
   "download_list.context_menu.stop": "Stop",
