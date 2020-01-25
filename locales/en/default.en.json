@@ -113,6 +113,7 @@
   "msg.confirm_download_removal": "Are you sure you want to remove {Count} download(s)?",
   "msg.confirm_clear_download_log.title": "Are you sure?",
   "msg.confirm_clear_download_log": "Are you sure you want to clear this download log?",
+  "msg.confirm_clear_download_logs": "Are you sure you want to clear all download logs?",
   "menustrip.settings": "&Settings",
   "menustrip.help.wiki": "&Wiki...",
   "menustrip.help.updates": "Check for Updates...",
