@@ -331,6 +331,8 @@
   "download_dialog.post_processing.audio_only.dropdown.tooltip": "Convert video file to audio-only file.",
   "download_dialog.post_processing.audio_only.best": "Best",
   "download_dialog.post_processing.audio_only": "Audio Only:",
+  "download_dialog.post_processing.embed_thumbnail": "Embed Thumbnail",
+  "download_dialog.post_processing.embed_thumbnail.tooltip": "Embed thumbnail in the audio as cover art.",
   "download_dialog.post_processing": "Post Processing",
   "download_dialog.options": "Options",
   "download_dialog.mode.tooltip": "Use a basic interface for simple downloads.",
