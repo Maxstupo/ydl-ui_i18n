@@ -329,6 +329,8 @@
   "download_dialog.quality.file_system": "File System",
   "download_dialog.quality": "Quality",
   "download_dialog.preset": "Customize Preset - {PresetName}",
+  "download_dialog.post_processing.add_metadata": "Add Metadata",
+  "download_dialog.post_processing.add_metadata.tooltip": "Write metadata to the video file.",
   "download_dialog.post_processing.recode_format.value.tooltip": "Encode the video to another format if necessary.",
   "download_dialog.post_processing.recode_format.tooltip": "Encode the video to another format if necessary.",
   "download_dialog.post_processing.recode_format": "Recode Format:",
