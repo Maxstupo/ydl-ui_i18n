@@ -431,6 +431,8 @@
   "dialog.cancel": "&Отмена",
   "browse.tooltip": "Изменить элементы списка",
   "browse": "...",
+  "insert_keyword": "<<<",
+  "insert_keyword.tooltip": "Открыть библиотеку подстановки...",
   "binary_location_dialog.youtube-dl": "youtube-dl:",
   "binary_location_dialog.okay": "&ОК",
   "binary_location_dialog.note": "Отмена приведет к закрытию приложения, так как эти двоичные файлы необходимы для запуска {ProductName}.",
