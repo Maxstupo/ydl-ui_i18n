@@ -431,6 +431,8 @@
   "dialog.cancel": "&Cancel",
   "browse.tooltip": "Playlist items editor.",
   "browse": "...",
+  "insert_keyword": "...",
+  "insert_keyword.tooltip": "Opens the keyword library...",
   "binary_location_dialog.youtube-dl": "youtube-dl:",
   "binary_location_dialog.okay": "&Okay",
   "binary_location_dialog.note": "Cancelling this dialog will close the application, as these binaries are required for {ProductName} to run.",
