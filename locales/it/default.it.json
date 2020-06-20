@@ -431,6 +431,8 @@
   "dialog.cancel": "&Annulla",
   "browse.tooltip": "Editor elementi playlist.",
   "browse": "...",
+  "insert_keyword": "...",
+  "insert_keyword.tooltip": "Apri libreria token...",
   "binary_location_dialog.youtube-dl": "youtube-dl:",
   "binary_location_dialog.okay": "&OK",
   "binary_location_dialog.note": "L'annullamento di questa finestra di dialogo chiuderà l'applicazione, poiché questi file binari sono necessari per l'esecuzione di {ProductName}.",
