@@ -394,6 +394,8 @@
   "download_dialog.quality.file_system.write_description": "Write Description",
   "download_dialog.quality.file_system.write_annotations.tooltip": "Write video annotations to a .annotations.xml file.",
   "download_dialog.quality.file_system.write_annotations": "Write Annotations",
+  "download_dialog.quality.file_system.write_sub": "Write Subtitle",
+  "download_dialog.quality.file_system.write_sub.tooltip": "Write subtitle file.",
   "download_dialog.quality.file_system.restrict_filenames.tooltip": "Restrict filenames to only ASCII characters, and avoid \"&\" and spaces in filenames.",
   "download_dialog.quality.file_system.restrict_filenames": "Restrict Filenames",
   "download_dialog.quality.file_system.no_overwrites.tooltip": "Don't overwrite files.",
