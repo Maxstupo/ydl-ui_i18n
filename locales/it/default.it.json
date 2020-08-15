@@ -394,6 +394,8 @@
   "download_dialog.quality.file_system.write_description": "Salva descrizione",
   "download_dialog.quality.file_system.write_annotations.tooltip": "Salva annotazioni video in un file .annotations.xml.",
   "download_dialog.quality.file_system.write_annotations": "Salva annotazioni",
+  "download_dialog.quality.file_system.write_sub": "Salva sottotitolo",
+  "download_dialog.quality.file_system.write_sub.tooltip": "Salva file sottotitolo.",
   "download_dialog.quality.file_system.restrict_filenames.tooltip": "Limita i nomi dei file a soli caratteri ASCII ed evita \" & \" e spazi nei nomi dei file.",
   "download_dialog.quality.file_system.restrict_filenames": "Limita nomi file",
   "download_dialog.quality.file_system.no_overwrites.tooltip": "Non sovrascrivere i file.",
