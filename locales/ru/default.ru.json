@@ -394,6 +394,8 @@
   "download_dialog.quality.file_system.write_description": "Описание",
   "download_dialog.quality.file_system.write_annotations.tooltip": "Записать аннотации к видео в файл .annotations.xml.",
   "download_dialog.quality.file_system.write_annotations": "Аннотации",
+  "download_dialog.quality.file_system.write_sub": "Субтитры",
+  "download_dialog.quality.file_system.write_sub.tooltip": "Записать файл субтитров.",
   "download_dialog.quality.file_system.restrict_filenames.tooltip": "Ограничить имена файлов только символами ASCII,\nизбегать \"&\" и пробелов в именах файлов.",
   "download_dialog.quality.file_system.restrict_filenames": "Ограничить имя",
   "download_dialog.quality.file_system.no_overwrites.tooltip": "Не перезаписывать существующие файлы.",
