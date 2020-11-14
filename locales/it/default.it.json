@@ -2,8 +2,6 @@
   "update_dialog.status.waiting": "Attendi...",
   "update_dialog.checking": "Controllo aggiornamenti...",
   "update_dialog.log.current_version": "Versione attuale: {CurrentVersion}",
-  "update_dialog.log.check.found": "Disponibile v. {Version}",
-  "update_dialog.log.check": "Ricerca versione aggiornata...",
   "update_dialog.done": "Fatto",
   "update_dialog.failed": "Aggiornamento fallito.",
   "update_dialog.completed": "Aggiornamento completato.",
