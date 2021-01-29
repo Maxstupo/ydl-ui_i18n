@@ -399,6 +399,8 @@
   "download_dialog.quality.file_system": "File System",
   "download_dialog.quality": "Qualität",
   "download_dialog.preset": "Preset bearbeiten - {PresetName}",
+  "download_dialog.preview": "Vorschau",
+  "download_dialog.preview.no_url": "<Warte auf URL>",
   "download_dialog.post_processing.add_metadata": "Metadaten hinzufügen",
   "download_dialog.post_processing.add_metadata.tooltip": "Metadaten in die Videodatei schreiben.",
   "download_dialog.post_processing.recode_format.value.tooltip": "Wenn nötig, das Video in ein anderes Format umwandeln.",
