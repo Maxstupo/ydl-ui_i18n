@@ -278,7 +278,7 @@
   "download_dialog.workarounds.network": "Hálózat",
   "download_dialog.workarounds.headers.value": "Érték",
   "download_dialog.workarounds.headers.key": "Kulcs",
-  "download_dialog.workarounds.headers": "Fejlécek",
+  "download_dialog.workarounds.headers": "URL-paraméterek",
   "download_dialog.workarounds.download.retries.value.tooltip": "Újrapróbálkozások száma [alapértelmezés szerint: 10].",
   "download_dialog.workarounds.download.retries.tooltip": "Újrapróbálkozások száma [alapértelmezés szerint: 10].",
   "download_dialog.workarounds.download.retries": "Újrapróbálkozás:",
