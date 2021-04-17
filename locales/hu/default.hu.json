@@ -407,7 +407,7 @@
   "download_dialog.general.post_processing.audio_only.tooltip": "A videófájlból csak a hangsávot hagyja meg, és azt konvertálja át.",
   "download_dialog.general.post_processing.audio_only.dropdown.tooltip": "A videofájlból csak a hangsávot hagyja meg, és azt konvertálja át.",
   "download_dialog.general.post_processing.audio_only.best": "Legjobb minőség",
-  "download_dialog.general.post_processing.audio_only": "Csak a hangsávot:",
+  "download_dialog.general.post_processing.audio_only": "Csak az audiót:",
   "download_dialog.general.post_processing.embed_thumbnail": "Bélyegkép hozzáadása",
   "download_dialog.general.post_processing.embed_thumbnail.tooltip": "Bélyegkép hangfájlba ágyazása borítóképként.",
   "download_dialog.general.post_processing": "Utófeldolgozás",
