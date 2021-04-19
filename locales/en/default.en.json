@@ -416,7 +416,7 @@
   "download_dialog.general.subtitles.default": "Default",
   "download_dialog.general.subtitles.default.tooltip": "Write the default subtitle file.",
   "download_dialog.general.subtitles.languages": "Languages:",
-  "download_dialog.general.subtitles.languages.tooltip": "Languages of the subtitles to download. Separated by commas.",
+  "download_dialog.general.subtitles.languages.tooltip": "Languages of the subtitles to download. Separated by commas. Lowercase language codes (e.g. en, de, fr-CA, zh-Hans, es-MX)",
   "download_dialog.general.subtitles.languages.value.tooltip": "Languages of the subtitles to download. Separated by commas.",
   "download_dialog.general.subtitles.all_subtitles": "All Subtitles",
   "download_dialog.general.subtitles.all_subtitles.tooltip": "Download all the available subtitles of the video.",
