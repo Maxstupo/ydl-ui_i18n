@@ -6,7 +6,7 @@
   "update_dialog.failed": "Update Failed.",
   "update_dialog.completed": "Update Completed.",
   "update_dialog": "Updating youtube-dl...",
-  "status": "Downloading {CompletedDownloads} of {TotalDownloads}, {ConcurrentDownloads} running.",
+  "status": "Downloaded {CompletedDownloads} of {TotalDownloads}, {ConcurrentDownloads} running.",
   "settings_dialog.presets.edit": "Edit...",
   "settings_dialog.presets.add": "Add...",
   "settings_dialog.presets": "Presets",
