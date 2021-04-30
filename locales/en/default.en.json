@@ -413,6 +413,8 @@
   "download_dialog.general.post_processing.audio_only": "Audio Only:",
   "download_dialog.general.post_processing.embed_thumbnail": "Embed Thumbnail",
   "download_dialog.general.post_processing.embed_thumbnail.tooltip": "Embed thumbnail in the audio as cover art.",
+  "download_dialog.general.post_processing.embed_subtitles": "Embed Subtitles",
+  "download_dialog.general.post_processing.embed_subtitles.tooltip": "Embed subtitles in the video (only for mp4, webm and mkv videos)",
   "download_dialog.general.post_processing": "Post Processing",
   "download_dialog.general.subtitles": "Subtitles",
   "download_dialog.general.subtitles.none": "None",
