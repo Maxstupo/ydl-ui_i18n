@@ -52,6 +52,8 @@
   "settings_dialog.download.default_download_archive": "Default Download Archive",
   "settings_dialog.download.auto_dragdrop_downloads.tooltip": "Auto-confirms the download dialog for downloads that were dragged and dropped.",
   "settings_dialog.download.auto_dragdrop_downloads": "Auto confirm DragDrop Downloads",
+  "settings_dialog.download.keep_original_date_and_time": "Keep original date and time",
+  "settings_dialog.download.keep_original_date_and_time.tooltip": "Use the original file date and time from the server. Otherwise use the local downloaded date and time.",
   "settings_dialog.download": "Download",
   "settings_dialog.binaries.youtube-dl.value.tooltip": "The filepath to youtube-dl.",
   "settings_dialog.binaries.youtube-dl.tooltip": "The filepath to youtube-dl.",
