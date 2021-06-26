@@ -52,6 +52,8 @@
   "settings_dialog.download.default_download_archive": "Standard Downloadarchivdatei",
   "settings_dialog.download.auto_dragdrop_downloads.tooltip": "Bestätigt bei Drag&Drop automatisch den Downloaddialog.",
   "settings_dialog.download.auto_dragdrop_downloads": "Download bei Drag&&Drop automatisch bestätigen",
+  "settings_dialog.download.keep_original_date_and_time": "Original Datums-/Zeitstempel beibehalten",
+  "settings_dialog.download.keep_original_date_and_time.tooltip": "Für die Datei den originalen Datums-/Zeitstempel vom Server verwenden. Anonsten wird der Datums-/Zeitstempel des Downloads verwendet.",
   "settings_dialog.download": "Download",
   "settings_dialog.binaries.youtube-dl.value.tooltip": "Der Dateipfad zu youtube-dl.",
   "settings_dialog.binaries.youtube-dl.tooltip": "Der Dateipfad zu youtube-dl.",
