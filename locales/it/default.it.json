@@ -427,8 +427,6 @@
   "download_dialog.general.post_processing.audio_only.dropdown.tooltip": "Converti file video in file solo audio.",
   "download_dialog.general.post_processing.audio_only.best": "Massima qualità",
   "download_dialog.general.post_processing.audio_only": "Solo audio:",
-  "download_dialog.general.post_processing.embed_thumbnail": "Miniatura integrata",
-  "download_dialog.general.post_processing.embed_thumbnail.tooltip": "Miniatura integrata come copertina.",
   "download_dialog.general.post_processing": "Post elaborazione",
   "download_dialog.general.post_processing.embed_thumbnail": "Includi minitaura",
   "download_dialog.general.post_processing.embed_thumbnail.tooltip": "Includi miniatura nel file audio come copertina.",
