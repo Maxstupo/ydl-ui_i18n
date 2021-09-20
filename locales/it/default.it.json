@@ -432,7 +432,6 @@
   "download_dialog.general.post_processing.embed_thumbnail.tooltip": "Includi miniatura nel file audio come copertina.",
   "download_dialog.general.post_processing.embed_subtitles": "Includi sottotitoli",
   "download_dialog.general.post_processing.embed_subtitles.tooltip": "Includi sottitoli nel file video (solo per vdieo mp4, webm e mkv)",
-  "download_dialog.general.post_processing": "Post elaborazione",
   "download_dialog.general.subtitles": "Sottitoli",
   "download_dialog.general.subtitles.none": "Nessuno",
   "download_dialog.general.subtitles.default": "Predefiniti",
