@@ -1,12 +1,12 @@
 ## YDL-UI i18n
-This repository contains [YDL-UI's](https://github.com/Maxstupo/ydl-ui) locale files.
+This repository contains [YDL-UI's](https://github.com/Maxstupo/ydl-ui) locale files. Synced from the Transifex [YDL-UI project](https://www.transifex.com/ydl-apps/ydl-ui).
 <br><br>
 YDL-UI supports multiple languages, the current user-interface language can be changed in `Settings > General`.
 
 ## Translating / Contributing
 Wanting to contribute by translating YDL-UI to your language, or fix a typo?
 <br><br>
-Fork this repository, apply your changes (in a sub-folder, view the **Format** section for more information), then create a pull request or send me the file.
+Visit the [YDL-UI project](https://www.transifex.com/ydl-apps/ydl-ui) on Transifex.
 <br><br>
 An ``about.txt`` file can be included, this file will be in each release of YDL-UI.
 
