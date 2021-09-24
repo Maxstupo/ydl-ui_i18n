@@ -28,6 +28,6 @@ Some entry values contain an ampersand (`&`) the character after this ampersand 
 `"menustrip.file.exit": "E&xit"`<br>
 `Alt+X` will activate this menustrip button (while the file menustrip is open).
 
-### License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
