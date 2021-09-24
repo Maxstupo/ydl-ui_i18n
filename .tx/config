@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+lang_map = en_AU: en-AU
+
+[ydl-ui.main-app]
+file_filter = locales/<lang>/default.<lang>.json
+source_file = locales/en/default.en.json
+source_lang = en
+type = KEYVALUEJSON
+
