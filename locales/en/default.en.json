@@ -1,12 +1,64 @@
 {
-    "common": {
-        "confirm": "OK",
-        "cancel": "Cancel"
-    },
-    "windows": {    
-        "main": {        
-            "title": "YDL-UI"
+  "common": {
+    "confirm": "OK",
+    "cancel": "Cancel"
+  },
+  "windows": {
+    "main": {
+      "title": "YDL-UI",
+      "menu": {
+        "file": {
+          "$val": "_File",
+          "add_url": "Add URL",
+          "import": "Import...",
+          "export": "Export...",
+          "exit": "Exit"
+        },
+        "edit": {
+          "$val": "_Edit",
+          "start": "Start",
+          "start_all": "Start All",
+          "stop": "Stop",
+          "stop_all": "Stop All",
+          "select": "Select...",
+          "delete": "Delete",
+          "top_of_queue": "Top of Queue",
+          "move_up_queue": "Move Up Queue",
+          "move_down_queue": "Move Down Queue",
+          "bottom_of_queue": "Bottom of Queue"
+        },
+        "view": {
+          "$val": "_View",
+          "toolbar": "Top Toolbar",
+          "statusbar": "Status Bar",
+          "columns": {
+            "$val": "Columns",
+            "index": "#",
+            "url": "URL",
+            "progress": "Progress",
+            "size": "Size",
+            "speed": "Speed",
+            "eta": "ETA",
+            "added_on": "Added On",
+            "title": "Title",
+            "filename": "Filename",
+            "download_directory": "Download Directory"
+          }
+        },
+        "options": {
+          "$val": "_Options",
+          "settings": "Settings",
+          "enable_clipboard_link_detection": "Enable Clipboard Link Detection",
+          "clear_logs": "Clear Logs"
+        },
+        "help": {
+          "$val": "_Help",
+          "about": "About YDL-UI",
+          "wiki": "Documentation",
+          "check_for_updates": "Check for Updates"
         }
-    },
-    "dialogs": {}
+      }
+    }
+  },
+  "dialogs": {}
 }
