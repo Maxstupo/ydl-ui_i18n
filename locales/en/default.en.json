@@ -1,7 +1,8 @@
 {
   "common": {
     "confirm": "OK",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "reset": "Reset"
   },
   "windows": {
     "main": {
@@ -43,6 +44,10 @@
             "title": "Title",
             "filename": "Filename",
             "download_directory": "Download Directory"
+          },
+          "mode": {
+            "table": "Table",
+            "details": "Details"
           }
         },
         "options": {
@@ -60,5 +65,26 @@
       }
     }
   },
-  "dialogs": {}
+  "dialogs": {
+    "settings": {
+      "title": "Settings",
+      "tabs": {
+        "general": {
+          "$val": "General",
+          "language": "Language:"
+        },
+        "downloads": "Downloads",
+        "advanced": "Advanced",
+        "shortcuts": "Shortcuts",
+        "ffmpeg": "Ffmpeg",
+        "youtube_dl": "Youtube-Dl",
+        "notifications": "Notifications",
+        "presets": "Presets",
+        "network": "Network"
+      }
+    },
+    "add_download": {
+      "title": "Add Download..."
+    }
+  }
 }
