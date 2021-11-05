@@ -1,8 +1,11 @@
 {
   "common": {
     "confirm": "OK",
+    "next": "Next",
     "cancel": "Cancel",
-    "reset": "Reset"
+    "reset": "Reset",
+    "background": "Background",
+    "browse": "..."
   },
   "windows": {
     "main": {
@@ -47,7 +50,7 @@
           },
           "mode": {
             "table": "Table",
-            "details": "Details"
+            "list": "List"
           }
         },
         "options": {
@@ -85,6 +88,9 @@
     },
     "add_download": {
       "title": "Add Download..."
+    },
+    "download_settings": {
+      "title": "Download Settings..."
     }
   }
 }
