@@ -394,7 +394,7 @@
   "download_dialog.general.selector": "Selezione formato personalizzato",
   "download_dialog.general.download.ignore_errors.tooltip": "In una playlist in caso di errore continua il download (ad esempio salta i video non disponibili in una playlist).",
   "download_dialog.general.download.ignore_errors": "Ignora errori",
-  "download_dialog.general.download.abort_on_errors.tooltip": "In una playlist interrompi il download di altri video in caso di errore.",
+  "download_dialog.general.download.abort_on_errors.tooltip": "Interrompi il download di altri video (in una playlist) in caso di errore.",
   "download_dialog.general.download.abort_on_errors": "Interrompi in caso di errore",
   "download_dialog.general.download": "Download",
   "download_dialog.general.fr.preferred.tooltip": "Seleziona il video con il frame rate più alto fino al frame rate selezionato.",
